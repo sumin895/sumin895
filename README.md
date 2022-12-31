@@ -2,6 +2,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=breathsumsum)](https://solved.ac/breathsumsum/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumin895&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/sumin895/sumin895/blob/output/github-contribution-grid-snake.svg)
