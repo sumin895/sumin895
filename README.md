@@ -3,4 +3,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=breathsumsum)](https://solved.ac/breathsumsum/)
 
 
-<!-- ![snake gif](https://github.com/sumin895/sumin895/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/sumin895/sumin895/blob/output/github-contribution-grid-snake.svg)
